@@ -1,0 +1,29 @@
+.pass1{
+    margin-top: 67px;
+}
+.pass2{
+    margin-top: 76px;
+}
+.pass3{
+    margin-top: 76px;
+}
+.p1{
+    width: 700px;
+    background: #cec6d3;
+    align-items: center;
+    text-align: center;
+    font-size: 22px;
+    opacity: 0.8;
+    margin: auto;
+    color: #cc7862;
+}
+audio{
+    opacity: 0.5;
+    width: 435px;
+    margin-top: 151px;
+    background: transparent;
+    color: transparent;
+    text-align: center;
+    justify-content: center;
+    margin-left: 500px;
+}
